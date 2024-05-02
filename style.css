@@ -1,0 +1,36 @@
+nav a {
+    color: crimson;
+    font-style: normal;
+}
+
+.about blockquote {
+    background-color: #eaeaea;
+}
+
+.users span {
+    font-weight: bold;
+}
+
+.users span:nth-child(2) {
+    color: crimson;
+}
+
+.link:nth-child(odd) {
+    font-family: "lato";
+    text-decoration: none;
+}
+
+.link:nth-child(even) {
+    font-family: "PT Serif";
+    font-weight: bold;
+}
+
+.cta h2 {
+    color: crimson;
+    font-family: "lato";
+}
+
+li:nth-child(odd) {
+    text-decoration: underline;
+}
+
